@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "Brutalicious",
   "description": "An endless, decaying brutalist megacity. Raw concrete, streets in the sky, and something beneath the city.",
-  "authors": [],
+   "authors": [],
   "license": "MIT",
   "environment": "*",
   "entrypoints": {

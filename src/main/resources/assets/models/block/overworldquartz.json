@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fs:block/overworldquartz",
+    "particle": "fs:block/overworldquartz"
+  }
+}

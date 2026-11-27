@@ -21,6 +21,7 @@ public final class Brutalicious implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        OverworldQuartz.init();
         Registry.register(BuiltInRegistries.CHUNK_GENERATOR, id("city"), CityChunkGenerator.CODEC);
         Registry.register(BuiltInRegistries.BIOME_SOURCE, id("city"), CityBiomeSource.CODEC);
 

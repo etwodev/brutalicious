@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "brutalicious:block/overworldquartz",
+    "particle": "brutalicious:block/overworldquartz"
+  }
+}

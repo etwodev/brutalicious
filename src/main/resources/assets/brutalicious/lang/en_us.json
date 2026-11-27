@@ -1,12 +1,5 @@
 {
   "generator.brutalicious.brutalist_city": "Brutalist City",
   "generator.brutalicious.brutalist_city_night": "Brutalist City (Eternal Night)",
-  "biome.brutalicious.concrete_sprawl": "Concrete Sprawl",
-  "biome.brutalicious.monolith_district": "Monolith District",
-  "biome.brutalicious.undercroft": "The Undercroft",
-  "biome.brutalicious.cistern": "The Cistern",
-  "biome.brutalicious.reservoir": "The Reservoir",
-  "biome.brutalicious.settlement": "Survivor Settlement",
-  "biome.brutalicious.blackout": "The Blackout",
-  "biome.brutalicious.exclusion_zone": "Exclusion Zone"
+  "block.brutalicious.overworldquartz": "Quartz Ore"
 }
